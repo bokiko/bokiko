@@ -1,34 +1,78 @@
-### Hey, I'm Bokiko
+<h1 align="center">Hey, I'm Bokiko <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
-**Miner. Builder. Data nerd.**
+<p align="center">
+  <b>Miner. Builder. Data nerd.</b>
+</p>
+
+<p align="center">
+  <a href="https://bokiko.io"><img src="https://img.shields.io/badge/Website-bokiko.io-blue?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://x.com/bokiko"><img src="https://img.shields.io/badge/Twitter-@bokiko-1DA1F2?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="https://medium.com/@bokiko"><img src="https://img.shields.io/badge/Medium-@bokiko-000?style=flat-square&logo=medium&logoColor=white" /></a>
+</p>
+
+---
 
 Crypto miner learning his way into data-driven strategy. I build simple tools, study market cycles, and focus on the infrastructure behind crypto.
 
 ---
 
-### Projects
+### Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| [Cycle Alpha](https://www.cycle-alpha.com) | Multi-factor crypto signal system for market timing |
-| [PingDiff](https://github.com/bokiko/pingdiff) | Test ping, packet loss, and jitter to game servers |
-| [BTC Liquidations](https://github.com/bokiko/btc-liquidations) | Real-time Bitcoin liquidation monitor |
-| [Claude History Sync](https://github.com/bokiko/claude-history-sync-guide) | Sync Claude Code conversations across machines |
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://www.cycle-alpha.com">
+        <img src="https://img.shields.io/badge/Cycle_Alpha-Live-brightgreen?style=for-the-badge" /><br/>
+        <b>Multi-factor crypto signals</b><br/>
+        <sub>Market timing system</sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/bokiko/pingdiff">
+        <img src="https://img.shields.io/badge/PingDiff-App-blue?style=for-the-badge" /><br/>
+        <b>Game server ping tester</b><br/>
+        <sub>Packet loss & jitter analysis</sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/bokiko/btc-liquidations">
+        <img src="https://img.shields.io/badge/BTC_Liquidations-Live-orange?style=for-the-badge" /><br/>
+        <b>Real-time liquidation monitor</b><br/>
+        <sub>Multi-exchange tracking</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/bokiko/defi-safety-hub">
+        <img src="https://img.shields.io/badge/DeFi_Safety-Tools-purple?style=for-the-badge" /><br/>
+        <b>Crypto security toolkit</b><br/>
+        <sub>Multi-chain support</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Guides
+### Mining & Infrastructure Guides
 
-- [Verus ARM64 Mining](https://github.com/bokiko/Verus-ARM64-Mining) - Mining on ARM64 boards
-- [GPU Mining](https://github.com/bokiko/GPU-Mining) - HiveOS overclock templates
-- [Screen Cheat Sheet](https://github.com/bokiko/screen) - Terminal multiplexer commands
-
----
-
-### Connect
-
-[Website](https://bokiko.io) | [Medium](https://medium.com/@bokiko) | [X](https://x.com/bokiko) | Discord: bokiko
+| Guide | Description |
+|:------|:------------|
+| [Verus ARM64 Mining](https://github.com/bokiko/Verus-ARM64-Mining) | Mining setup for Rock 5, Orange Pi |
+| [GPU Mining](https://github.com/bokiko/GPU-Mining) | HiveOS overclock templates |
+| [Screen Cheat Sheet](https://github.com/bokiko/screen) | Terminal multiplexer commands |
+| [Claude History Sync](https://github.com/bokiko/claude-history-sync-guide) | Sync Claude Code across machines |
 
 ---
 
-*Building in public. Learning every day.*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bokiko&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bokiko&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+<p align="center">
+  <i>Building in public. Learning every day.</i>
+</p>
