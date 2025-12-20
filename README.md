@@ -1,6 +1,6 @@
 ### Hey, I am Bokiko
 
-**Builder | Crypto Enthusiast | Open Source Contributor**
+**Miner. Builder. Data nerd.**
 
 ---
 
