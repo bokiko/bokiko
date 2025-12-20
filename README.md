@@ -1,21 +1,33 @@
-### Hey, I am Bokiko
+### Hey, I'm Bokiko
 
 **Miner. Builder. Data nerd.**
 
----
-
-I build tools for crypto traders, miners, and developers. Most of my work focuses on making complex data accessible and actionable.
+Crypto miner learning his way into data-driven strategy. I build simple tools, study market cycles, and focus on the infrastructure behind crypto.
 
 ---
 
-### Featured Projects
+### Projects
 
 | Project | Description |
 |---------|-------------|
-| [PingDiff](https://github.com/bokiko/pingdiff) | Test your ping, packet loss, and jitter to game servers |
-| [Claude History Sync](https://github.com/bokiko/claude-history-sync-guide) | Sync Claude Code conversations across machines |
+| [Cycle Alpha](https://www.cycle-alpha.com) | Multi-factor crypto signal system for market timing |
+| [PingDiff](https://github.com/bokiko/pingdiff) | Test ping, packet loss, and jitter to game servers |
 | [BTC Liquidations](https://github.com/bokiko/btc-liquidations) | Real-time Bitcoin liquidation monitor |
-| [DeFi Safety Hub](https://github.com/bokiko/defi-safety-hub) | Multi-chain crypto security toolkit |
+| [Claude History Sync](https://github.com/bokiko/claude-history-sync-guide) | Sync Claude Code conversations across machines |
+
+---
+
+### Guides
+
+- [Verus ARM64 Mining](https://github.com/bokiko/Verus-ARM64-Mining) - Mining on ARM64 boards
+- [GPU Mining](https://github.com/bokiko/GPU-Mining) - HiveOS overclock templates
+- [Screen Cheat Sheet](https://github.com/bokiko/screen) - Terminal multiplexer commands
+
+---
+
+### Connect
+
+[Website](https://bokiko.io) | [Medium](https://medium.com/@bokiko) | [X](https://x.com/bokiko) | Discord: bokiko
 
 ---
 
