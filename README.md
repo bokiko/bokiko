@@ -68,7 +68,7 @@ Crypto miner learning his way into data-driven strategy. I build simple tools, s
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bokiko&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=bokiko&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bokiko&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
