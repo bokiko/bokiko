@@ -12,9 +12,13 @@
 
 ---
 
+<p align="center">
 Crypto miner learning his way into data-driven strategy. I build simple tools, study market cycles, and focus on the infrastructure behind crypto.
+</p>
 
 ---
+
+<div align="center">
 
 ### Featured Projects
 
@@ -36,14 +40,14 @@ Crypto miner learning his way into data-driven strategy. I build simple tools, s
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://github.com/bokiko/btc-liquidations">
         <img src="https://img.shields.io/badge/BTC_Liquidations-Live-orange?style=for-the-badge" /><br/>
         <b>Real-time liquidation monitor</b><br/>
         <sub>Multi-exchange tracking</sub>
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://github.com/bokiko/bloxcue">
         <img src="https://img.shields.io/badge/BloxCue-Memory-blueviolet?style=for-the-badge" /><br/>
         <b>Context blocks for Claude Code</b><br/>
@@ -53,7 +57,11 @@ Crypto miner learning his way into data-driven strategy. I build simple tools, s
   </tr>
 </table>
 
+</div>
+
 ---
+
+<div align="center">
 
 ### Mining & Infrastructure Guides
 
@@ -63,6 +71,8 @@ Crypto miner learning his way into data-driven strategy. I build simple tools, s
 | [GPU Mining](https://github.com/bokiko/GPU-Mining) | HiveOS overclock templates |
 | [Screen Cheat Sheet](https://github.com/bokiko/screen) | Terminal multiplexer commands |
 | [Claude History Sync](https://github.com/bokiko/claude-history-sync-guide) | Sync Claude Code across machines |
+
+</div>
 
 ---
 
