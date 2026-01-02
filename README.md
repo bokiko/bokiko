@@ -41,10 +41,10 @@ Crypto miner learning his way into data-driven strategy. I build simple tools, s
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/bokiko/btc-liquidations">
-        <img src="https://img.shields.io/badge/BTC_Liquidations-Live-orange?style=for-the-badge" /><br/>
-        <b>Real-time liquidation monitor</b><br/>
-        <sub>Multi-exchange tracking</sub>
+      <a href="https://github.com/bokiko/Verus-ARM64-Mining">
+        <img src="https://img.shields.io/badge/Verus_Mining-Guide-orange?style=for-the-badge" /><br/>
+        <b>ARM64 mining setup</b><br/>
+        <sub>Rock 5, Orange Pi</sub>
       </a>
     </td>
     <td align="center" width="50%">
@@ -56,21 +56,6 @@ Crypto miner learning his way into data-driven strategy. I build simple tools, s
     </td>
   </tr>
 </table>
-
-</div>
-
----
-
-<div align="center">
-
-### Mining & Infrastructure Guides
-
-| Guide | Description |
-|:------|:------------|
-| [Verus ARM64 Mining](https://github.com/bokiko/Verus-ARM64-Mining) | Mining setup for Rock 5, Orange Pi |
-| [GPU Mining](https://github.com/bokiko/GPU-Mining) | HiveOS overclock templates |
-| [Screen Cheat Sheet](https://github.com/bokiko/screen) | Terminal multiplexer commands |
-| [Claude History Sync](https://github.com/bokiko/claude-history-sync-guide) | Sync Claude Code across machines |
 
 </div>
 
