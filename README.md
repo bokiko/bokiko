@@ -44,10 +44,10 @@ Crypto miner learning his way into data-driven strategy. I build simple tools, s
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/bokiko/defi-safety-hub">
-        <img src="https://img.shields.io/badge/DeFi_Safety-Tools-purple?style=for-the-badge" /><br/>
-        <b>Crypto security toolkit</b><br/>
-        <sub>Multi-chain support</sub>
+      <a href="https://github.com/bokiko/bloxcue">
+        <img src="https://img.shields.io/badge/BloxCue-Memory-blueviolet?style=for-the-badge" /><br/>
+        <b>Context blocks for Claude Code</b><br/>
+        <sub>Save ~7,500 tokens/prompt</sub>
       </a>
     </td>
   </tr>
