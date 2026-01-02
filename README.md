@@ -61,10 +61,24 @@ Crypto miner learning his way into data-driven strategy. I build simple tools, s
 
 ---
 
-<p align="center">
-  <img height="165" width="400" src="https://github-readme-stats.vercel.app/api?username=bokiko&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bokiko&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" />
+<div align="center">
+
+### Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
+<p>
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/HiveOS-FFB000?style=for-the-badge&logo=hive&logoColor=black" />
+  <img src="https://img.shields.io/badge/Synology-B6B5B6?style=for-the-badge&logo=synology&logoColor=black" />
+  <img src="https://img.shields.io/badge/UniFi-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white" />
+</p>
+
+</div>
 
 ---
 
