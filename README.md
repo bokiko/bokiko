@@ -32,26 +32,26 @@ Crypto miner learning his way into data-driven strategy. I build simple tools, s
       </a>
     </td>
     <td align="center" width="50%">
+      <a href="https://github.com/bokiko/bloxcue">
+        <img src="https://img.shields.io/badge/BloxCue-Memory-blueviolet?style=for-the-badge" /><br/>
+        <b>Context blocks for Claude Code</b><br/>
+        <sub>Save ~7,500 tokens/prompt</sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <a href="https://github.com/bokiko/pingdiff">
         <img src="https://img.shields.io/badge/PingDiff-App-blue?style=for-the-badge" /><br/>
         <b>Game server ping tester</b><br/>
         <sub>Packet loss & jitter analysis</sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <a href="https://github.com/bokiko/Verus-ARM64-Mining">
         <img src="https://img.shields.io/badge/Verus_Mining-Guide-orange?style=for-the-badge" /><br/>
         <b>ARM64 mining setup</b><br/>
         <sub>Rock 5, Orange Pi</sub>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/bokiko/bloxcue">
-        <img src="https://img.shields.io/badge/BloxCue-Memory-blueviolet?style=for-the-badge" /><br/>
-        <b>Context blocks for Claude Code</b><br/>
-        <sub>Save ~7,500 tokens/prompt</sub>
       </a>
     </td>
   </tr>
