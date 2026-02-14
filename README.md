@@ -41,10 +41,10 @@ Crypto miner learning his way into data-driven strategy. I build simple tools, s
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/bokiko/pingdiff">
-        <img src="https://img.shields.io/badge/PingDiff-App-blue?style=for-the-badge" /><br/>
-        <b>Game server ping tester</b><br/>
-        <sub>Packet loss & jitter analysis</sub>
+      <a href="https://github.com/bokiko/openClaw-dashboard">
+        <img src="https://img.shields.io/badge/OpenClaw-Dashboard-teal?style=for-the-badge" /><br/>
+        <b>AI Agent Swarm Dashboard</b><br/>
+        <sub>Multi-agent orchestration UI</sub>
       </a>
     </td>
     <td align="center" width="50%">
