@@ -1,11 +1,13 @@
-<h1 align="center">bokiko</h1>
-
-<p align="center">From mining rigs to AI agent swarms.</p>
+<p align="center">
+  <a href="https://github.com/bokiko">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=70&lines=Mining+Rigs+%E2%86%92+Infrastructure+%E2%86%92+AI+Agent+Swarms" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
-  <a href="https://bokiko.io">website</a> ·
-  <a href="https://x.com/bokiko">x</a> ·
-  <a href="https://medium.com/@bokiko">medium</a>
+  <a href="https://bokiko.io"><img src="https://img.shields.io/badge/bokiko.io-111?style=flat-square&logo=safari&logoColor=white" alt="Website" /></a>&nbsp;
+  <a href="https://x.com/bokiko"><img src="https://img.shields.io/badge/@bokiko-111?style=flat-square&logo=x&logoColor=white" alt="X" /></a>&nbsp;
+  <a href="https://medium.com/@bokiko"><img src="https://img.shields.io/badge/Medium-111?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
 </p>
 
 ---
@@ -14,34 +16,47 @@ I build the infrastructure layer between hardware and intelligence. Started mini
 
 The common thread: **make machines do more with less.**
 
+Currently building: multi-agent swarm orchestration with OpenClaw.
+
 ---
 
 ### AI & Developer Tools
 
-[**openClaw-dashboard**](https://github.com/bokiko/openClaw-dashboard) — Multi-agent AI swarm dashboard with real-time orchestration &nbsp;`TypeScript` &nbsp;★ 11
-
-[**bloxcue**](https://github.com/bokiko/bloxcue) — On-demand memory retrieval for Claude Code. Cuts context usage by 90% &nbsp;`Python` &nbsp;★ 8
-
-[**claude-statusline**](https://github.com/bokiko/claude-statusline) — Visual progress bar for Claude Code CLI — context warnings, git status, continuity tracking &nbsp;`Shell`
-
-[**btc-liquidations**](https://github.com/bokiko/btc-liquidations) — Real-time Bitcoin liquidation monitor across Binance, Bybit, OKX, Hyperliquid & Aevo &nbsp;`TypeScript`
+| | Project | What it does |
+|---|---------|-------------|
+| :octopus: | [**openClaw-dashboard**](https://github.com/bokiko/openClaw-dashboard) | AI agent swarm orchestration dashboard &nbsp;`TypeScript` &nbsp;**11** |
+| :brain: | [**bloxcue**](https://github.com/bokiko/bloxcue) | On-demand memory for Claude Code — cuts context 90% &nbsp;`Python` &nbsp;**8** |
+| :book: | [**continuous-claude-guide**](https://github.com/bokiko/continuous-claude-guide) | Give Claude Code a memory across sessions &nbsp;`Python` |
+| :bar_chart: | [**btc-liquidations**](https://github.com/bokiko/btc-liquidations) | Real-time liquidation feed across 5 exchanges &nbsp;`TypeScript` |
+| :traffic_light: | [**claude-statusline**](https://github.com/bokiko/claude-statusline) | Visual progress bar for Claude Code CLI &nbsp;`Shell` |
 
 ### Mining & Crypto
 
-[**Verus-ARM64-Mining**](https://github.com/bokiko/Verus-ARM64-Mining) — CPU mining guide for ARM64 SBCs — Rock 5, Orange Pi, RK3588 &nbsp;★ 3
+| | Project | What it does |
+|---|---------|-------------|
+| :pick: | [**Verus-ARM64-Mining**](https://github.com/bokiko/Verus-ARM64-Mining) | CPU mining on ARM64 SBCs — Rock 5, Orange Pi, RK3588 &nbsp;**3** |
+| :hammer_and_wrench: | [**bloxminer**](https://github.com/bokiko/bloxminer) | High-performance VerusHash v2.2 CPU miner &nbsp;`C++` |
+| :chart_with_upwards_trend: | [**Cycle Alpha**](https://www.cycle-alpha.com) | Multi-factor crypto signal engine &nbsp;`live` |
 
-[**bloxminer**](https://github.com/bokiko/bloxminer) — High-performance VerusHash v2.2 CPU miner &nbsp;`C++`
+<details>
+<summary><b>More Projects</b></summary>
 
-[**Cycle Alpha**](https://www.cycle-alpha.com) — Multi-factor crypto signal engine — market timing system &nbsp;`live`
+| | Project | What it does |
+|---|---------|-------------|
+| :shield: | [**gitshield**](https://github.com/bokiko/gitshield) | Prevent accidental secret commits &nbsp;`Python` |
+| :video_game: | [**pingdiff**](https://github.com/bokiko/pingdiff) | Ping & jitter testing for 141 game servers &nbsp;`TypeScript` &nbsp;**1** |
+| :robot: | [**home-butler**](https://github.com/bokiko/home-butler) | Local AI assistant that greets WiFi guests &nbsp;`HTML` |
+| :desktop_computer: | [**bloxos**](https://github.com/bokiko/bloxos) | Self-hosted mining rig management &nbsp;`TypeScript` |
 
-### Utilities
-
-[**pingdiff**](https://github.com/bokiko/pingdiff) — Ping, jitter & packet loss testing for 141 game servers across 9 games &nbsp;`TypeScript` &nbsp;★ 1
-
-[**gitshield**](https://github.com/bokiko/gitshield) — Prevent accidental secret commits before they happen &nbsp;`Python`
+</details>
 
 ---
 
 <p align="center">
-  <code>TypeScript</code> · <code>Python</code> · <code>Bash</code> · <code>C++</code> · <code>Docker</code> · <code>Proxmox</code> · <code>Linux</code> · <code>UniFi</code>
+  <img src="https://skillicons.dev/icons?i=ts,python,bash,cpp,docker,linux,go,rust&theme=dark" alt="Tech Stack" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bokiko&show_icons=true&theme=github_dark_dimmed&hide_rank=true&hide_border=true&bg_color=00000000" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bokiko&theme=github_dark_dimmed&hide_border=true&background=00000000" alt="GitHub Streak" height="165" />
 </p>
