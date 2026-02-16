@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/bokiko">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=70&lines=Mining+Rigs+%E2%86%92+Infrastructure+%E2%86%92+AI+Agent+Swarms" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=435&height=45&lines=Miner.;Builder.;Data+nerd." alt="Typing SVG" />
   </a>
 </p>
 
