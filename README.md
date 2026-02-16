@@ -1,87 +1,47 @@
-<h1 align="center">Hey, I'm Bokiko <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1 align="center">bokiko</h1>
+
+<p align="center">From mining rigs to AI agent swarms.</p>
 
 <p align="center">
-  <b>Miner. Builder. Data nerd.</b>
-</p>
-
-<p align="center">
-  <a href="https://bokiko.io"><img src="https://img.shields.io/badge/Website-bokiko.io-blue?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://x.com/bokiko"><img src="https://img.shields.io/badge/Twitter-@bokiko-1DA1F2?style=flat-square&logo=x&logoColor=white" /></a>
-  <a href="https://medium.com/@bokiko"><img src="https://img.shields.io/badge/Medium-@bokiko-000?style=flat-square&logo=medium&logoColor=white" /></a>
+  <a href="https://bokiko.io">website</a> ·
+  <a href="https://x.com/bokiko">x</a> ·
+  <a href="https://medium.com/@bokiko">medium</a>
 </p>
 
 ---
 
-<p align="center">
-Crypto miner learning his way into data-driven strategy. I build simple tools, study market cycles, and focus on the infrastructure behind crypto.
-</p>
+I build the infrastructure layer between hardware and intelligence. Started mining crypto on ARM boards and GPUs — that pulled me into Proxmox clusters, Docker fleets, and network engineering across VLANs. Now I build AI agent orchestration systems and developer tools for LLMs.
+
+The common thread: **make machines do more with less.**
 
 ---
 
-<div align="center">
+### AI & Developer Tools
 
-### Featured Projects
+[**openClaw-dashboard**](https://github.com/bokiko/openClaw-dashboard) — Multi-agent AI swarm dashboard with real-time orchestration &nbsp;`TypeScript` &nbsp;★ 11
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://www.cycle-alpha.com">
-        <img src="https://img.shields.io/badge/Cycle_Alpha-Live-brightgreen?style=for-the-badge" /><br/>
-        <b>Multi-factor crypto signals</b><br/>
-        <sub>Market timing system</sub>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/bokiko/bloxcue">
-        <img src="https://img.shields.io/badge/BloxCue-Memory-blueviolet?style=for-the-badge" /><br/>
-        <b>Context blocks for Claude Code</b><br/>
-        <sub>Save ~7,500 tokens/prompt</sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/bokiko/openClaw-dashboard">
-        <img src="https://img.shields.io/badge/OpenClaw-Dashboard-teal?style=for-the-badge" /><br/>
-        <b>AI Agent Swarm Dashboard</b><br/>
-        <sub>Multi-agent orchestration UI</sub>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/bokiko/Verus-ARM64-Mining">
-        <img src="https://img.shields.io/badge/Verus_Mining-Guide-orange?style=for-the-badge" /><br/>
-        <b>ARM64 mining setup</b><br/>
-        <sub>Rock 5, Orange Pi</sub>
-      </a>
-    </td>
-  </tr>
-</table>
+[**bloxcue**](https://github.com/bokiko/bloxcue) — On-demand memory retrieval for Claude Code. Cuts context usage by 90% &nbsp;`Python` &nbsp;★ 8
 
-</div>
+[**claude-statusline**](https://github.com/bokiko/claude-statusline) — Visual progress bar for Claude Code CLI — context warnings, git status, continuity tracking &nbsp;`Shell`
 
----
+[**btc-liquidations**](https://github.com/bokiko/btc-liquidations) — Real-time Bitcoin liquidation monitor across Binance, Bybit, OKX, Hyperliquid & Aevo &nbsp;`TypeScript`
 
-<div align="center">
+### Mining & Crypto
 
-### Tech Stack
+[**Verus-ARM64-Mining**](https://github.com/bokiko/Verus-ARM64-Mining) — CPU mining guide for ARM64 SBCs — Rock 5, Orange Pi, RK3588 &nbsp;★ 3
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
-  <img src="https://img.shields.io/badge/HiveOS-FFB000?style=for-the-badge&logo=hive&logoColor=black" />
-  <img src="https://img.shields.io/badge/Synology-B6B5B6?style=for-the-badge&logo=synology&logoColor=black" />
-  <img src="https://img.shields.io/badge/UniFi-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white" />
-</p>
+[**bloxminer**](https://github.com/bokiko/bloxminer) — High-performance VerusHash v2.2 CPU miner &nbsp;`C++`
 
-</div>
+[**Cycle Alpha**](https://www.cycle-alpha.com) — Multi-factor crypto signal engine — market timing system &nbsp;`live`
+
+### Utilities
+
+[**pingdiff**](https://github.com/bokiko/pingdiff) — Ping, jitter & packet loss testing for 141 game servers across 9 games &nbsp;`TypeScript` &nbsp;★ 1
+
+[**gitshield**](https://github.com/bokiko/gitshield) — Prevent accidental secret commits before they happen &nbsp;`Python`
 
 ---
 
 <p align="center">
-  <i>Building in public. Learning every day.</i>
+  <code>TypeScript</code> · <code>Python</code> · <code>Bash</code> · <code>C++</code> · <code>Docker</code> · <code>Proxmox</code> · <code>Linux</code> · <code>UniFi</code>
 </p>
