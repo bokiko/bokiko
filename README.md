@@ -24,9 +24,9 @@ Currently building: multi-agent swarm orchestration with OpenClaw.
 
 | | Project | What it does |
 |---|---------|-------------|
+| :zap: | [**KyZN**](https://github.com/bokiko/KyZN) | Autonomous code improvement CLI — 4 Opus specialists + consensus &nbsp;`Bash` |
 | :octopus: | [**openClaw-dashboard**](https://github.com/bokiko/openClaw-dashboard) | AI agent swarm orchestration dashboard &nbsp;`TypeScript` &nbsp;**11** |
 | :brain: | [**bloxcue**](https://github.com/bokiko/bloxcue) | On-demand memory for Claude Code — cuts context 90% &nbsp;`Python` &nbsp;**8** |
-| :book: | [**continuous-claude-guide**](https://github.com/bokiko/continuous-claude-guide) | Give Claude Code a memory across sessions &nbsp;`Python` |
 | :bar_chart: | [**btc-liquidations**](https://github.com/bokiko/btc-liquidations) | Real-time liquidation feed across 5 exchanges &nbsp;`TypeScript` |
 | :traffic_light: | [**claude-statusline**](https://github.com/bokiko/claude-statusline) | Visual progress bar for Claude Code CLI &nbsp;`Shell` |
 
