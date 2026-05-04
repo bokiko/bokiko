@@ -24,10 +24,11 @@ Currently building: multi-agent swarm orchestration with OpenClaw.
 
 | | Project | What it does |
 |---|---------|-------------|
+| :control_knobs: | [**BloxOs**](https://github.com/bokiko/bloxos) | Self-hosted fleet dashboard — GPU health, services, terminals &nbsp;`Go` |
 | :zap: | [**KyZN**](https://github.com/bokiko/KyZN) | Autonomous code improvement CLI — 4 Opus specialists + consensus &nbsp;`Bash` |
 | :octopus: | [**openClaw-dashboard**](https://github.com/bokiko/openClaw-dashboard) | AI agent swarm orchestration dashboard &nbsp;`TypeScript` &nbsp;**11** |
 | :brain: | [**bloxcue**](https://github.com/bokiko/bloxcue) | On-demand memory for Claude Code — cuts context 90% &nbsp;`Python` &nbsp;**8** |
-| :bar_chart: | [**btc-liquidations**](https://github.com/bokiko/btc-liquidations) | Real-time liquidation feed across 5 exchanges &nbsp;`TypeScript` |
+| :video_game: | [**pingdiff**](https://github.com/bokiko/pingdiff) | Ping & jitter testing for 141 game servers &nbsp;`TypeScript` &nbsp;**1** |
 | :traffic_light: | [**claude-statusline**](https://github.com/bokiko/claude-statusline) | Visual progress bar for Claude Code CLI &nbsp;`Shell` |
 
 ### Mining & Crypto
@@ -44,9 +45,7 @@ Currently building: multi-agent swarm orchestration with OpenClaw.
 | | Project | What it does |
 |---|---------|-------------|
 | :shield: | [**gitshield**](https://github.com/bokiko/gitshield) | Prevent accidental secret commits &nbsp;`Python` |
-| :video_game: | [**pingdiff**](https://github.com/bokiko/pingdiff) | Ping & jitter testing for 141 game servers &nbsp;`TypeScript` &nbsp;**1** |
 | :robot: | [**home-butler**](https://github.com/bokiko/home-butler) | Local AI assistant that greets WiFi guests &nbsp;`HTML` |
-| :desktop_computer: | [**bloxos**](https://github.com/bokiko/bloxos) | Self-hosted mining rig management &nbsp;`TypeScript` |
 
 </details>
 
