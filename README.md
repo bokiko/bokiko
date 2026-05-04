@@ -27,7 +27,7 @@ Currently building: multi-agent swarm orchestration with OpenClaw.
 | :control_knobs: | [**BloxOs**](https://github.com/bokiko/bloxos) | Self-hosted fleet dashboard — GPU health, services, terminals &nbsp;`Go` |
 | :zap: | [**KyZN**](https://github.com/bokiko/KyZN) | Autonomous code improvement CLI — 4 Opus specialists + consensus &nbsp;`Bash` |
 | :octopus: | [**openClaw-dashboard**](https://github.com/bokiko/openClaw-dashboard) | AI agent swarm orchestration dashboard &nbsp;`TypeScript` &nbsp;**11** |
-| :brain: | [**bloxcue**](https://github.com/bokiko/bloxcue) | On-demand memory for Claude Code — cuts context 90% &nbsp;`Python` &nbsp;**8** |
+| :brain: | [**bloxcue**](https://github.com/bokiko/bloxcue) | MCP context retrieval for Claude/Codex/Gemini — BM25 over markdown &nbsp;`Python` &nbsp;**10** |
 | :video_game: | [**pingdiff**](https://github.com/bokiko/pingdiff) | Ping & jitter testing for 141 game servers &nbsp;`TypeScript` &nbsp;**1** |
 | :traffic_light: | [**claude-statusline**](https://github.com/bokiko/claude-statusline) | Visual progress bar for Claude Code CLI &nbsp;`Shell` |
 
