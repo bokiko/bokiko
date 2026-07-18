@@ -24,6 +24,7 @@ Currently building: multi-agent swarm orchestration with OpenClaw.
 
 | | Project | What it does |
 |---|---------|-------------|
+| :house: | [**Localist**](https://github.com/bokiko/localist) | Hardware-first local AI guide for beginners — updates itself daily &nbsp;`Python` |
 | :control_knobs: | [**BloxOs**](https://github.com/bokiko/bloxos) | Self-hosted fleet dashboard — GPU health, services, terminals &nbsp;`Go` |
 | :zap: | [**KyZN**](https://github.com/bokiko/KyZN) | Autonomous code improvement CLI — 4 Opus specialists + consensus &nbsp;`Bash` |
 | :octopus: | [**openClaw-dashboard**](https://github.com/bokiko/openClaw-dashboard) | AI agent swarm orchestration dashboard &nbsp;`TypeScript` &nbsp;**11** |
