@@ -59,6 +59,6 @@ Currently building: multi-agent swarm orchestration with OpenClaw.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bokiko&show_icons=true&theme=github_dark_dimmed&hide_rank=true&hide_border=true&bg_color=00000000" alt="GitHub Stats" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=bokiko&show_icons=true&theme=github_dark_dimmed&hide_rank=true&hide_border=true&bg_color=00000000" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bokiko&theme=github_dark_dimmed&hide_border=true&background=00000000" alt="GitHub Streak" height="165" />
 </p>
