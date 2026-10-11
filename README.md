@@ -39,6 +39,7 @@ Currently building: multi-agent swarm orchestration with OpenClaw.
 |---|---------|-------------|
 | :pick: | [**Verus-ARM64-Mining**](https://github.com/bokiko/Verus-ARM64-Mining) | CPU mining on ARM64 SBCs — Rock 5, Orange Pi, RK3588 &nbsp;**3** |
 | :hammer_and_wrench: | [**bloxminer**](https://github.com/bokiko/bloxminer) | High-performance VerusHash v2.2 CPU miner &nbsp;`C++` |
+| :rocket: | [**bloxminer-x**](https://github.com/bokiko/bloxminer-x) | 0%-fee RandomX (XMR) CPU miner, HiveOS-ready, per-core stats &nbsp;`Shell` |
 | :chart_with_upwards_trend: | [**Cycle Alpha**](https://www.cycle-alpha.com) | Multi-factor crypto signal engine &nbsp;`live` |
 
 <details>
